@@ -77,6 +77,22 @@ main {
 /* ELEMENTI NEL MAIN - ARTICLE */
 
 /* TABELLE */
+table tr {
+  border: 1px solid black;
+}
+
+table td {
+  padding: 10px;
+  text-align: center;
+}
+
+table th {
+  padding: 10px;
+}
+
+#primaRigaTabella {
+  background-color: cornflowerblue;
+}
 
 /* FORM */
 
