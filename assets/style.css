@@ -58,6 +58,10 @@ header {
   margin-top: 10px;
 }
 
+#logo {
+  width: 100%;
+}
+
 .primaLista {
   list-style-type: none;
 }
